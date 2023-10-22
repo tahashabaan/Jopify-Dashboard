@@ -1,0 +1,1 @@
+impofrom 'styled-components';
