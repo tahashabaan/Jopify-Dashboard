@@ -1,5 +1,7 @@
 # Jopify Dashboard
 
+![Alt text](clients/public/vite.svg)
+
 Jopify Dashboard is a web application designed to provide users with insights and analytics related to their job search activities. It offers a centralized dashboard to track job application progress, view statistics, and visualize job search data.
 
 ## Technologies Used
